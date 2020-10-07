@@ -1,2 +1,2 @@
-# hactober2020
+# Hactober2020
 My First Repo
